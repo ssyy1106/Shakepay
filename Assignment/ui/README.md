@@ -1,6 +1,8 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Firstly should install two components axios and echarts-for-react
+npm install axios
+npm install echarts-for-react
 
 ## Available Scripts
 
